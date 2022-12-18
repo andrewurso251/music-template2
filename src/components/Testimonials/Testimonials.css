@@ -1,0 +1,19 @@
+.samples {
+    width: 100%;
+}
+
+.samples .container {
+    width: 1240px;
+    margin: 4rem auto;
+    padding: 4rem 0rem;
+}
+
+.samples h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.samples .container .content {
+    display: grid;
+
+}
